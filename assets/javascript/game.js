@@ -11,7 +11,7 @@ var resetAndStart = function () {
   var images = [
     'assets/images/blue.jpg',
     'assets/images/Yellow.jpg',
-    'assets/images/black.jpg',
+    'assets/images/Black.jpg',
     'assets/images/pink.jpeg'];
   
 
